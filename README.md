@@ -1,7 +1,11 @@
 kinetic
 =======
-
 code challenge for Kinetic Supply
+
+
+sql file
+=======
+laravel.sql - in main directory
 
 =======
 on routes.php
